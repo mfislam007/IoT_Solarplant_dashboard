@@ -1,0 +1,10 @@
+1.past 24 hours data Energy production in euro
+2.Futere 24 hours data Energy production in euro
+3.Weather updates for next 24 hours 
+
+Spring 2
+User=TV in TB
+1. Power production in Kwhs per month
+(identify the 
+holes in data)
+2. Power production last 24 hours (Vacon 800 inverter) in Kwh and next 24 hours based on estimate from FMI

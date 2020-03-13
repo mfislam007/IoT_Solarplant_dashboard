@@ -1,0 +1,8 @@
+code: V1.1             Values: "Output Power"              ID:   1707
+code: V1.2             Values: "Total Energy kWh"        ID:   1837
+code: V1.12           Values:"RunTimeTotal"               ID:   1836
+code: V1.13           Values: "RunTime Today"           ID:   1731
+Code: v1.3		values:"Energy Today Kwh"	ID:  1708
+Code: v1.4		values:"Energy Yesterday Kwh"	ID:  1733
+Code: v1.14		values:"RunTime Yesterday"	ID:  1732
+Weather data : 24 hours future data and 24 hpour previous data
